@@ -14,6 +14,7 @@
  - [JavaScript setTimeout](JavaScript/setTimeout.md)
  - [JavaScript 类型检测](JavaScript/JavaScript类型检测.md)
  - [理解JS执行环境和作用域](JavaScript/理解JS执行环境和作用域.md)
+ - [JavaScript创建对象](JavaScript/JavaScript创建对象.md)
 * [第三部分 React]
  - [React'sDiffAlgorithm](React/React'sDiffAlgorithm.md)
 * [第四部分 Git]
