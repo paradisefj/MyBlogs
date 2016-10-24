@@ -19,3 +19,5 @@
  - [React'sDiffAlgorithm](React/React'sDiffAlgorithm.md)
 * [第四部分 Git]
  - [Git使用](git/Git使用.md)
+* [第五部分 随笔]
+ - [程序员如何提高工作效率？我是这样做的...](effective/improveEffective.md)
