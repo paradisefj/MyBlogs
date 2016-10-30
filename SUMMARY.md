@@ -17,6 +17,7 @@
  - [JavaScript创建对象](JavaScript/JavaScript创建对象.md)
 * [第三部分 React]
  - [React'sDiffAlgorithm](React/React'sDiffAlgorithm.md)
+ - [React纯组件渲染性能反模式](React/ReactPureRender.md)
 * [第四部分 Git]
  - [Git使用](git/Git使用.md)
 * [第五部分 随笔]
