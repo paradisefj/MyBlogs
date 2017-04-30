@@ -21,5 +21,11 @@
  - [React组件规范和生命周期](React/ComponentSpecsAndLifecycle.md)
 * [第四部分 Git]
  - [Git使用](git/Git使用.md)
-* [第五部分 随笔]
+* [第五部分 JAVA]
+* [第六部分 LINUX]
+* [第七部分 Maven]
+ - [Maven生命周期](Maven/LifeCycle.md)
+ - [Maven解析依赖的机制](Maven/ParseDenpendency.md)
+* [第七部分 随笔]
  - [程序员如何提高工作效率？我是这样做的...](effective/improveEffective.md)
+ 
