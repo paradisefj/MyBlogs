@@ -16,22 +16,14 @@
  - [理解JS执行环境和作用域](JavaScript/理解JS执行环境和作用域.md)
  - [JavaScript创建对象](JavaScript/JavaScript创建对象.md)
 * [第三部分 React]
+ - [React入门](React/ReactIntroduction.md)
  - [React'sDiffAlgorithm](React/React'sDiffAlgorithm.md)
  - [React纯组件渲染性能反模式](React/ReactPureRender.md)
  - [React组件规范和生命周期](React/ComponentSpecsAndLifecycle.md)
  - [React生命周期](React/ComponentLifecycle.md)
  - [React数据流](React/ReactDataStream.md)
-* [第四部分 Git]
- - [Git使用](git/Git使用.md)
-* [第五部分 JAVA]
-* [第六部分 LINUX]
- - [主机规划与磁盘分区](Linux/DiskPatition.md)
- - [安装CentOS与多重引导系统](Linux/CentOSInstallation.md)
- - [man](Linux/Man.md)
-* [第七部分 Maven]
- - [Maven生命周期](Maven/LifeCycle.md)
- - [Maven解析依赖的机制](Maven/ParseDenpendency.md)
- - [Maven插件解析机制](Maven/ParsePlugin.md)
-* [第七部分 随笔]
- - [程序员如何提高工作效率？我是这样做的...](effective/improveEffective.md)
+* [第四部分 Redux]
+ - [Redux中的数据流](redux/ReduxDataStream.md)
+* [第四部分 其他]
+ - [前端发展历程](talk/SomethingAboutFontEnd.md)
  
