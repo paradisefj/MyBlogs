@@ -24,6 +24,13 @@
  - [React数据流](React/ReactDataStream.md)
 * [第四部分 Redux]
  - [Redux中的数据流](redux/ReduxDataStream.md)
-* [第四部分 其他]
+* [第五部分 JAVA]
+ - [spring3.2.6升级到4.3.11](JAVA/spring3.2.6升级到4.3.11.md)
+ - [spring注解](JAVA/spring注解.md)
+* [第六部分 CSS]
+ - [CSS选择器](CSS/CSS选择器.md)
+ - [CSS结构和层叠](CSS/CSS结构和层叠.md)
+ - [CSS值和单位](CSS/CSS值和单位.md)
+* [其他]
  - [前端发展历程](talk/SomethingAboutFontEnd.md)
  
